@@ -1,0 +1,73 @@
+body .container-fluid{
+    margin:0;
+    padding:0;
+   
+  }
+.container-fluid .fondo{
+    background-image: url("../media/conjunto.jpg") ;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+
+.container-fluid .fondo img{
+    margin-top: 100px;
+    margin-left: 50px;
+    height: 300px;
+    width: 200px;
+    
+}
+
+.container-fluid a{
+    margin-left: 20px;
+}
+
+.titulo1{
+    background-color:rgba(52, 73, 94, 0.30);
+    padding: 18px;
+    text-align: center;
+}
+
+.container-fluid .row{
+    background-color:rgba(52, 73, 94, 0.20);
+    text-align: justify;
+    padding: 15px;
+}
+
+.container-fluid .row .col-6 h4{
+    margin-top: 5%;
+  margin-left: 5%;
+}
+
+.container-fluid .row .col-6 p{
+ margin-left: 5%;
+}
+
+.container-fluid .row .col-6 img{
+    border-radius: 10px;
+    margin-left: 10%;
+    width: 50%;
+}
+.container-fluid{
+    margin-top: 1%;
+}
+
+.container-fluid .card{
+    padding: 10px;
+    margin: 10px;
+    height: 350px;
+}
+
+.container-fluid h4{
+    margin-left: 3%;
+}
+.contacto{
+    background-color: #212529;
+    color: white;
+}
+.foter{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
